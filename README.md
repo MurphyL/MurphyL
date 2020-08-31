@@ -31,6 +31,13 @@ Hi there, I'm MurphyL, a full stack developer.
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 
+##### And you can reach me with the links below:
+
+![Wechat](https://img.shields.io/badge/-MurphyLuo-7bb32e?style=flat&logo=wechat&logoColor=ffffff)
+![Steam](https://img.shields.io/badge/-MurphyLuo-000000?style=flat&logo=steam&logoColor=ffffff)
+![Instagram](https://img.shields.io/badge/-imurphyl-e4405f?style=flat&logo=instagram&logoColor=ffffff)
+![PlayStation](https://img.shields.io/badge/-IMurphyL-003791?style=flat&logo=playstation&logoColor=ffffff)
+
 <!--
 **MurphyL/MurphyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
