@@ -1,4 +1,6 @@
-Hi there, I'm MurphyL, a full stack developer.
+Hi there, I'm MurphyL.
+
+> A full stack developer.
 
 ![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
 ![Living](https://img.shields.io/badge/Living-Wuhan,%20China-3c9)
