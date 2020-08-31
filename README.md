@@ -3,7 +3,7 @@ Hi there, I'm MurphyL, a full stack developer.
 ![](https://komarev.com/ghpvc/?username=MurphyL)
 
 <!-- 最常使用的编程语言 -->
-![MurphyL](https://github-readme-stats.vercel.app/api/top-langs/?username=MurphyL&layout=compact&hide=css,html)
+![MurphyL](https://github-readme-stats.vercel.app/api/top-langs/?username=MurphyL&hide=css,html&layout=compact)
 
 <!-- Github社交数据 -->
 <!--
