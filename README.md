@@ -14,18 +14,18 @@ Hi there, I'm MurphyL, a full stack developer.
 
 ##### Languages I use
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=ffffff)
 
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=ffffff)
 ![SVN](https://img.shields.io/badge/-SVN-809cc9?style=flat&logo=subversion&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=000000)
 ![Bash](https://img.shields.io/badge/-BASH-4eaa25?style=flat&logo=gnu-bash&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=git&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=222222)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff)
