@@ -22,11 +22,13 @@ Hi there, I'm MurphyL, a full stack developer.
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=ffffff)
+![SVN](https://img.shields.io/badge/-SVN-809cc9?style=flat&logo=subversion&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=000000)
+![Bash](https://img.shields.io/badge/-BASH-4eaa25?style=flat&logo=gnu-bash&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=git&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=222222)
+![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 
 <!--
