@@ -2,8 +2,8 @@ Hi there, I'm MurphyL.
 
 > A full stack developer.
 
-![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
-![Living](https://img.shields.io/badge/Living-Wuhan,%20China-3c9)
+![Focus](https://img.shields.io/badge/Focus-Backend-25a768?style=flat&logo=xrp&logoColor=ffffff)
+![Living](https://img.shields.io/badge/Location-Wuhan,%20China-4285f4?style=flat&logo=google-maps&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=MurphyL)
 
 <!-- 最常使用的编程语言 -->
