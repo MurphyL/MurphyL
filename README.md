@@ -3,7 +3,10 @@ Hi there 👋
 I'm MurphyL, ![](https://komarev.com/ghpvc/?username=MurphyL)
 
 
+<!-- 最常使用的编程语言 -->
+![MurphyL](https://github-readme-stats.vercel.app/api/top-langs/?username=MurphyL&layout=compact&hide=css,html)
 
+<!-- Github社交数据 -->
 ![MurphyL](https://github-readme-stats.vercel.app/api?username=MurphyL&show_icons=true)
 
 <!--
