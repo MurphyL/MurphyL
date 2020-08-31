@@ -36,7 +36,7 @@ Hi there, I'm MurphyL.
 ##### And you can reach me with the links below:
 
 ![Wechat](https://img.shields.io/badge/-MurphyLuo-7bb32e?style=flat&logo=wechat&logoColor=ffffff)
-![Twitter](https://img.shields.io/badge/-MurphyLuo-1da1f2?style=flat&logo=playstation&logoColor=ffffff)
+![Twitter](https://img.shields.io/badge/-MurphyLuo-1da1f2?style=flat&logo=twitter&logoColor=ffffff)
 ![Instagram](https://img.shields.io/badge/-imurphyl-e4405f?style=flat&logo=instagram&logoColor=ffffff)
 ![Steam](https://img.shields.io/badge/-MurphyLuo-000000?style=flat&logo=steam&logoColor=ffffff)
 ![PlayStation](https://img.shields.io/badge/-IMurphyL-003791?style=flat&logo=playstation&logoColor=ffffff)
