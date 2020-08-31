@@ -12,7 +12,7 @@ Hi there, I'm MurphyL, a full stack developer.
 ![MurphyL](https://github-readme-stats.vercel.app/api?username=MurphyL&show_icons=true)
 -->
 
-##### Languages I use
+##### Languages I use:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=ffffff)
@@ -20,7 +20,7 @@ Hi there, I'm MurphyL, a full stack developer.
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=ffffff)
 
-##### Some of the technologies I have worked with
+##### Some of the technologies I have worked with:
 
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=ffffff)
 ![SVN](https://img.shields.io/badge/-SVN-809cc9?style=flat&logo=subversion&logoColor=ffffff)
