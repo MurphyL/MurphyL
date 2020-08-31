@@ -1,6 +1,4 @@
-Hi there 👋 
-
-I'm MurphyL, A full stack developer.
+Hi there, I'm MurphyL, a full stack developer.
 
 ![](https://komarev.com/ghpvc/?username=MurphyL)
 
@@ -8,7 +6,9 @@ I'm MurphyL, A full stack developer.
 ![MurphyL](https://github-readme-stats.vercel.app/api/top-langs/?username=MurphyL&layout=compact&hide=css,html)
 
 <!-- Github社交数据 -->
+<!--
 ![MurphyL](https://github-readme-stats.vercel.app/api?username=MurphyL&show_icons=true)
+-->
 
 <!--
 **MurphyL/MurphyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
