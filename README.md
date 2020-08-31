@@ -27,7 +27,7 @@ Hi there, I'm MurphyL, a full stack developer.
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 
 <!--
 **MurphyL/MurphyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
